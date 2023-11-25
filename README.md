@@ -12,7 +12,7 @@ The dataset is sourced from Kaggle and 50 images are chosen for training, includ
 1. Image preprocessing:
 - Ultrasound images underwent preprocessing techniques to enhance their quality and reduce noise. This included resizing, cropping, and median filtering.
 
-2. Feature Extraction
+2. Feature Extraction:
 Two types of features were extracted from the preprocessed images:
 - Statistical Features: These features capture the overall intensity distribution of the image, including mean, median, and standard deviation.
 
