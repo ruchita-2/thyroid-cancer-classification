@@ -19,7 +19,7 @@ Two types of features were extracted from the preprocessed images:
 - Texture Features: These features capture the local patterns and textures within the image, using Local Binary Patterns (LBP).
 
 3. Classification
-- The Support Vector Machine (SVM) algorithm was used to classify the extracted features into benign or malignant categories. 
+- The Support Vector Machine (SVM) algorithm was used to classify the ultrasound images into benign or malignant categories. 
 
 ## Results
 
